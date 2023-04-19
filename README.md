@@ -1,6 +1,6 @@
 # Simple Reproduction Script Example
 
-This project demonstrates a simple reproduction script using Python.
+This project demonstrates a simple reproduction script using Python as published on [Dev.To](https://dev.to/rainleander/crafting-simple-reproduction-scripts-with-python-3l23).
 
 ## Requirements
 
